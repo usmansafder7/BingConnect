@@ -20,7 +20,7 @@ Enable Bing ChatGPT functionality on Chrome and Firefox with this extension. Thi
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/anaclumos/bing-chat-for-all-browsers.git
+    git clone https://github.com/usmansafder7/BingConnect.git
     ```
 2. Follow the browser-specific instructions in the repository to load the extension.
 
